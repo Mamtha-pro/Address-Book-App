@@ -1,4 +1,4 @@
-package com.main;
+package com.example.addressbook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
